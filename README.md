@@ -4,6 +4,8 @@
 [![Rank](https://make.fun/badge/news-image-20261120/ghui26962-hue/news-image-20261120/rank.svg)](https://make.fun/c/news-image-20261120)
 [![Reward](https://make.fun/badge/news-image-20261120/ghui26962-hue/news-image-20261120/reward.svg)](https://make.fun/c/news-image-20261120)
 
+Built for the [make.fun bounty “Sum up 20 November's world news in one image”](https://make.fun/bounty/news-image-20261120).
+
 One image that sums up the world's news of Friday, 20 November 2026,
 drawn as a newspaper front page.
 
